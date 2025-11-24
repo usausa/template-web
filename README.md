@@ -1,1 +1,1 @@
-# template-web-api
+# template-web
